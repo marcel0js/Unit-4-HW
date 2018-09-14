@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+}
+
+input {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
